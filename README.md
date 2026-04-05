@@ -23,9 +23,3 @@ Estimate a football player's market value using a machine learning model wrapped
 3. Open your browser and visit:
      http://127.0.0.1:5000
 4. Fill in required player stats and submit to get a market value estimate.
-
-
-## ✅ Todo
-
-Deploy to Render/Heroku
-Add feature: player image preview + team logo
